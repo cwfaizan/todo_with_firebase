@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "964117133529",
+    "project_id": "tailor-cd6d7",
+    "storage_bucket": "tailor-cd6d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964117133529:android:10ece6cd8b61ef50a826c8",
+        "android_client_info": {
+          "package_name": "com.nutech.tailor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964117133529-vnfc87jrgdgbt3crog7681n8nn31v2pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-wtozDTwb7xm275t_DzZWdAxv0BbZTiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964117133529-vnfc87jrgdgbt3crog7681n8nn31v2pq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
